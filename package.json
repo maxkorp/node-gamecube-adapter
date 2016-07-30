@@ -1,5 +1,5 @@
 {
-  "name": "node-gamecube-aadapter",
+  "name": "node-gamecube-adapter",
   "version": "0.1.0",
   "description": "node bindings to hid to detect gamecube controller state",
   "main": "src/main.js",
